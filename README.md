@@ -7,5 +7,5 @@ Real-Time Summarization: Utilizes a Spring Boot REST API to generate summaries o
 
 Smooth Performance: Built with non-blocking requests on the frontend to ensure the browser remains responsive during summarization.
 
-Reliable Note Storage: Notes are managed using local storage for fast access and data persistence within the browser.
+Reliable Note Storage: Notes are managed using chrome local storage for fast access and data persistence within the browser.
 
